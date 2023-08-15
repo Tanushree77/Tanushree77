@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanusree Sen</h1>
 <h3 align="center">A passionate Software Engineer from Bangladdesh</h3>
+- 📫 Experienced with **react.js, node.js, next.js**
 
 - 📫 How to reach me **sentanushree78@gmail.com**
 
